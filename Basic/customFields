@@ -1,0 +1,12 @@
+{
+    "nameText_color": {
+        "label": "Name text Color",
+        "type": "colorpicker",
+        "value": "#FFFFFF"
+    },
+    "nameBG_color": {
+        "label": "Name background Color",
+        "type": "colorpicker",
+        "value": "#7C591F"
+    }
+}
